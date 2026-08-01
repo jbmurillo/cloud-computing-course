@@ -6,13 +6,13 @@ This repo serves as my organized workspace for all course requirements, includin
 - Lab activities and exercises
 - Mini-projects
 - Reflection papers
-##👤 Student Information
-- Name:[Your Full Name]
-- Course/Section:[Your Program & Section]
-- Instructor:[Name of Instructor]
+## 👤 Student Information
+- Name: John Benedict Murillo
+- Course/Section: BSIT 4G
+- Instructor: Ma'am Jenkielyn C. Torres
 - School Year: [2026-2027]
 
-##📂 Repository Structure
+## 📂 Repository Structure
 cloud-computing-course/
 ├── activities/
 ├── projects/
@@ -22,7 +22,7 @@ cloud-computing-course/
 
 
 
-##📖 Key Concepts Covered
+## 📖 Key Concepts Covered
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
 - Deployment Models (Public, Private, Hybrid, Community)
