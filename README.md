@@ -14,7 +14,7 @@ This repo serves as my organized workspace for all course requirements, includin
 
 ## 👤 Student Information
 
-- *Name:* Leah Arao Nabor
+- *Name:* John Benedict Murillo
 - *Course/Section:* BSIT 4G
 - *Instructor:* Ma'am Jenkielyn C. Torres
 - *School Year:* 2026–2027
