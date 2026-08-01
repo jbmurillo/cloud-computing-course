@@ -1,18 +1,26 @@
 # Cloud Computing Course Repository
-> *A collection of activities, outputs, and learning resources for Cloud Computing/CCM101*
+
+*A collection of activities, outputs, and learning resources for Cloud Computing (CCM101).*
+
+
 ## 📌 About This Repository
+
 This repo serves as my organized workspace for all course requirements, including:
+
 - Class notes and summaries
 - Lab activities and exercises
 - Mini-projects
 - Reflection papers
+
 ## 👤 Student Information
-- Name: John Benedict Murillo
-- Course/Section: BSIT 4G
-- Instructor: Ma'am Jenkielyn C. Torres
-- School Year: 2026-2027
+
+- *Name:* Leah Arao Nabor
+- *Course/Section:* BSIT 4G
+- *Instructor:* Ma'am Jenkielyn C. Torres
+- *School Year:* 2026–2027
 
 ## 📂 Repository Structure
+
 text
 cloud-computing-course/
 ├── activities/
@@ -20,7 +28,9 @@ cloud-computing-course/
 ├── notes/
 ├── reflections/
 └── README.md
+
 ## 📖 Key Concepts Covered
+
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
 - Deployment Models (Public, Private, Hybrid, Community)
